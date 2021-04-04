@@ -1,0 +1,13 @@
+C:\repos\C# projects school\trunk\BinarySearchV1.2\bin\Debug\netcoreapp3.1\BinarySearchV1.2.exe
+C:\repos\C# projects school\trunk\BinarySearchV1.2\bin\Debug\netcoreapp3.1\BinarySearchV1.2.deps.json
+C:\repos\C# projects school\trunk\BinarySearchV1.2\bin\Debug\netcoreapp3.1\BinarySearchV1.2.runtimeconfig.json
+C:\repos\C# projects school\trunk\BinarySearchV1.2\bin\Debug\netcoreapp3.1\BinarySearchV1.2.runtimeconfig.dev.json
+C:\repos\C# projects school\trunk\BinarySearchV1.2\bin\Debug\netcoreapp3.1\BinarySearchV1.2.dll
+C:\repos\C# projects school\trunk\BinarySearchV1.2\bin\Debug\netcoreapp3.1\BinarySearchV1.2.pdb
+C:\repos\C# projects school\trunk\BinarySearchV1.2\obj\Debug\netcoreapp3.1\BinarySearchV1.2.csprojAssemblyReference.cache
+C:\repos\C# projects school\trunk\BinarySearchV1.2\obj\Debug\netcoreapp3.1\BinarySearchV1.2.AssemblyInfoInputs.cache
+C:\repos\C# projects school\trunk\BinarySearchV1.2\obj\Debug\netcoreapp3.1\BinarySearchV1.2.AssemblyInfo.cs
+C:\repos\C# projects school\trunk\BinarySearchV1.2\obj\Debug\netcoreapp3.1\BinarySearchV1.2.csproj.CoreCompileInputs.cache
+C:\repos\C# projects school\trunk\BinarySearchV1.2\obj\Debug\netcoreapp3.1\BinarySearchV1.2.dll
+C:\repos\C# projects school\trunk\BinarySearchV1.2\obj\Debug\netcoreapp3.1\BinarySearchV1.2.pdb
+C:\repos\C# projects school\trunk\BinarySearchV1.2\obj\Debug\netcoreapp3.1\BinarySearchV1.2.genruntimeconfig.cache
